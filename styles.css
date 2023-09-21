@@ -7,7 +7,7 @@ div>p:first-child{
 	background-color:black;
 	color:white;
 }
-div>p:nth-child(3){
+div>p:nth-child(4){
 	color:red;
 }
 li{
